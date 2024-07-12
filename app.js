@@ -3,8 +3,8 @@ function findPrimeNumbers(start, end) {
     if (num <= 1) 
       return false;
 
-    for (let i = 2; i <= Math.sqrt(num); i++) {
-      if (num % i === 0) {
+    for (let a = 2; a <= Math.sqrt(num); a++) {
+      if (num % a === 0) {
           return false;
       }
     }
