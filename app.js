@@ -22,4 +22,4 @@ function findPrimeNumbers(start, end) {
 
 console.log(findPrimeNumbers(10, 30)); // Output: [11, 13, 17, 19, 23, 29]
 console.log(findPrimeNumbers(1, 10)); // Output: [2, 3, 5, 7]
-console.log(findPrimeNumbers(15, 17)); // Output: [17]"
+console.log(findPrimeNumbers(15, 17)); // Output: [17]"  
