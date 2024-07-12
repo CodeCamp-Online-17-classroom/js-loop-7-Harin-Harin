@@ -26,7 +26,7 @@
   console.log(findPrimeNumbers(15, 17)); // Output: [17]"
 ```
 คำตอบ ToDo
-\\TODO 1  
+//TODO 1  
 ```Javascript
     if (num <= 1) 
       return false;
@@ -37,7 +37,7 @@
       }
     }
 ```
-\\TODO 2  
+//TODO 2  
 ```Javascript
       if (isPrime(i)) {
         primeNumbers.push(i);
